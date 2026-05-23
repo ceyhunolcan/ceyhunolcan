@@ -94,9 +94,9 @@ Risk analytics and strategic systems modeling engine.
 
 ## GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=ceyhunolcan&show_icons=true&theme=default&hide_border=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=ceyhunolcan&show_icons=true&theme=default&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhunolcan&layout=compact&hide_border=true)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ceyhunolcan&layout=compact&hide_border=true)
 
 ---
 
