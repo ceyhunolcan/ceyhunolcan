@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.png" alt="Ceyhun Olcan — Computational Health · Digital Phenotyping · Biomedical AI" />
+<img src="assets/banner.svg" alt="Ceyhun Olcan — Computational Health · Digital Phenotyping · Biomedical AI" />
 
 ### Ceyhun Olcan
 

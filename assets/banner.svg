@@ -1,0 +1,46 @@
+<svg viewBox="0 0 1600 400" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>Ceyhun Olcan — Computational Health, Digital Phenotyping, Biomedical AI</title>
+<desc>Banner with name, research focus, Dartmouth affiliation, and stacked physiological signal traces representing multi-modal wearable sensing.</desc>
+
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+<path d="M 40 0 L 0 0 0 40" fill="none" stroke="#1F3A5F" stroke-width="0.5" opacity="0.35"/>
+</pattern>
+</defs>
+
+<rect width="1600" height="400" fill="#0A1628"/>
+<rect width="1600" height="400" fill="url(#grid)"/>
+
+<line x1="800" y1="60" x2="800" y2="340" stroke="#1F3A5F" stroke-width="1" opacity="0.5"/>
+
+<g transform="translate(880, 75)" fill="none" stroke-linecap="round" stroke-linejoin="round">
+
+<line x1="0" y1="45" x2="640" y2="45" stroke="#1F3A5F" stroke-width="0.5" opacity="0.5"/>
+<line x1="0" y1="115" x2="640" y2="115" stroke="#1F3A5F" stroke-width="0.5" opacity="0.5"/>
+<line x1="0" y1="185" x2="640" y2="185" stroke="#1F3A5F" stroke-width="0.5" opacity="0.5"/>
+<line x1="0" y1="255" x2="640" y2="255" stroke="#1F3A5F" stroke-width="0.5" opacity="0.5"/>
+
+<text x="-14" y="50" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#4F7396" letter-spacing="2">HR</text>
+<text x="-14" y="120" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#4F7396" letter-spacing="2">ACT</text>
+<text x="-14" y="190" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#4F7396" letter-spacing="2">SLP</text>
+<text x="-14" y="260" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#4F7396" letter-spacing="2">HRV</text>
+
+<path stroke="#58A6FF" stroke-width="1.6" opacity="0.85" d="M 0 45 L 25 45 L 28 40 L 32 20 L 36 62 L 40 45 L 95 45 L 98 40 L 102 20 L 106 62 L 110 45 L 165 45 L 168 40 L 172 20 L 176 62 L 180 45 L 235 45 L 238 40 L 242 20 L 246 62 L 250 45 L 305 45 L 308 40 L 312 20 L 316 62 L 320 45 L 375 45 L 378 40 L 382 20 L 386 62 L 390 45 L 445 45 L 448 40 L 452 20 L 456 62 L 460 45 L 515 45 L 518 40 L 522 20 L 526 62 L 530 45 L 585 45 L 588 40 L 592 20 L 596 62 L 600 45 L 640 45"/>
+
+<path stroke="#79C0FF" stroke-width="1.6" opacity="0.7" d="M 0 115 L 18 110 L 35 122 L 52 95 L 70 90 L 88 128 L 105 85 L 122 78 L 142 105 L 162 92 L 182 130 L 202 72 L 222 88 L 242 118 L 262 102 L 282 90 L 302 78 L 322 100 L 342 132 L 362 108 L 382 85 L 402 108 L 422 125 L 442 78 L 462 92 L 482 122 L 502 100 L 522 80 L 542 105 L 562 132 L 582 100 L 602 88 L 622 108 L 640 118"/>
+
+<path stroke="#A5D6FF" stroke-width="1.6" opacity="0.7" d="M 0 195 L 55 195 L 55 160 L 130 160 L 130 200 L 180 200 L 180 170 L 245 170 L 245 195 L 310 195 L 310 160 L 390 160 L 390 185 L 455 185 L 455 168 L 520 168 L 520 195 L 580 195 L 580 160 L 640 160"/>
+
+<path stroke="#7EE8C5" stroke-width="1.6" opacity="0.65" d="M 0 255 C 60 230, 120 280, 180 255 S 300 230, 360 255 S 480 275, 540 250 S 640 240, 640 255"/>
+</g>
+
+<text x="80" y="180" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="700" font-size="84" fill="#FFFFFF" letter-spacing="-2.5">Ceyhun Olcan</text>
+
+<line x1="80" y1="210" x2="170" y2="210" stroke="#58A6FF" stroke-width="2.5"/>
+
+<text x="80" y="252" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="500" font-size="22" fill="#79C0FF" letter-spacing="0.5">Computational Health · Digital Phenotyping · Biomedical AI</text>
+
+<text x="80" y="308" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="400" font-size="22" fill="#8B949E">Biomedical Engineering · Dartmouth College</text>
+
+<text x="1520" y="358" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#4F7396" letter-spacing="3">ORCID 0000-0002-6326-6071</text>
+</svg>
