@@ -1,15 +1,14 @@
+![Ceyhun Olcan Banner](assets/banner.png)
+
 # Ceyhun Olcan
+
+![Profile Views](https://komarev.com/ghpvc/?username=ceyhunolcan&color=blue)
+![GitHub followers](https://img.shields.io/github/followers/ceyhunolcan?style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/ceyhunolcan?style=social)
 
 Biomedical Engineering @ Dartmouth College
 
-Computational health researcher focused on:
-- Digital phenotyping
-- Passive sensing
-- Longitudinal health modeling
-- Wearable signal analysis
-- Behavioral foundation models
-- Computational psychiatry
-- Climate-health systems
+Computational health researcher focused on digital phenotyping, passive sensing, longitudinal health modeling, wearable signal analysis, behavioral foundation models, computational psychiatry, and climate-health systems.
 
 ---
 
@@ -23,17 +22,32 @@ Computational health researcher focused on:
 
 ## Active Research Repositories
 
-### longitudinal-health-foundation-model
+### [longitudinal-health-foundation-model](https://github.com/ceyhunolcan/longitudinal-health-foundation-model)
+
 Self-supervised multimodal foundation model for longitudinal behavioral health modeling using wearable, smartphone, and environmental data.
 
-### biomedical-signal-forensics-lab
+### [biomedical-signal-forensics-lab](https://github.com/ceyhunolcan/biomedical-signal-forensics-lab)
+
 Open-source toolkit for wearable physiological signal auditing, algorithmic fairness evaluation, and downstream-task robustness analysis.
 
-### od-activity-rhythm
+### [od-activity-rhythm](https://github.com/ceyhunolcan/od-activity-rhythm)
+
 Analysis pipeline for olfactory dysfunction, circadian rhythm fragmentation, and activity reduction using NHANES data.
 
-### aegis-controlrisk-v2
+### [aegis-controlrisk-v2](https://github.com/ceyhunolcan/aegis-controlrisk-v2)
+
 Risk analytics and strategic systems modeling engine.
+
+---
+
+## Selected Research Directions
+
+- Reliability of passive sensing data in depression
+- Longitudinal health foundation models for behavioral forecasting
+- Wearable and smartphone-based digital biomarkers
+- Environmental and physiological confounding in health AI
+- Climate-health and mental health risk modeling
+- Fairness, robustness, and interpretability in biomedical AI
 
 ---
 
@@ -62,6 +76,9 @@ Risk analytics and strategic systems modeling engine.
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
@@ -77,7 +94,12 @@ Risk analytics and strategic systems modeling engine.
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ceyhunolcan&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=ceyhunolcan&show_icons=true&theme=default&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhunolcan&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhunolcan&layout=compact&hide_border=true)
 
+---
+
+## Contribution Graph
+
+![snake gif](https://github.com/ceyhunolcan/ceyhunolcan/blob/output/github-contribution-grid-snake.svg)
