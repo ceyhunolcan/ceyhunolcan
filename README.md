@@ -100,6 +100,8 @@ Risk analytics and strategic systems modeling engine.
 
 ---
 
-## Contribution Graph
+## Contribution Activity
 
-![snake gif](https://github.com/ceyhunolcan/ceyhunolcan/blob/output/github-contribution-grid-snake.svg)
+![](https://github-readme-activity-graph.vercel.app/graph?username=ceyhunolcan&theme=github-compact&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ceyhunolcan&hide_border=true)
