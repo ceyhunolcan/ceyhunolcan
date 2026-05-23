@@ -16,7 +16,7 @@
 
 ## About
 
-Can passive signals from phones, wearables, and the environment reliably model behavioral health over months and years? My work builds the methods, audits, and foundation models needed to answer that — with a focus on reliability, fairness, and clinical translation.
+Can passive signals from phones, wearables, and the environment reliably model behavioral health over months and years? My work builds the methods, audits, and foundation models needed to answer that with a focus on reliability, fairness, and clinical translation.
 
 > **Now** — pretraining a longitudinal multimodal foundation model, and in parallel building the audit toolkit for the wearable signals it depends on.
 
