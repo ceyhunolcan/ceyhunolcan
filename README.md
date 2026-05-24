@@ -6,6 +6,17 @@
 
 *Biomedical Engineering · Dartmouth College*
 
+![Profile views](https://komarev.com/ghpvc/?username=ceyhunolcan&label=Profile%20views&color=0e75b6&style=flat)
+![Followers](https://img.shields.io/github/followers/ceyhunolcan?label=Followers&style=flat)
+![Stars](https://img.shields.io/github/stars/ceyhunolcan?label=Stars&style=flat)
+
+<img src="https://img.shields.io/badge/Focus-Computational%20Health-0f172a?style=flat-square" />
+<img src="https://img.shields.io/badge/Research-Digital%20Phenotyping-0f172a?style=flat-square" />
+<img src="https://img.shields.io/badge/AI-Behavioral%20Foundation%20Models-0f172a?style=flat-square" />
+<img src="https://img.shields.io/badge/Institution-Dartmouth-0f172a?style=flat-square" />
+
+<br><br>
+
 <a href="https://xclimate.co">Website</a> &nbsp;·&nbsp;
 <a href="https://orcid.org/0000-0002-6326-6071">ORCID</a> &nbsp;·&nbsp;
 <a href="https://www.linkedin.com/in/ceyhun-olcan/">LinkedIn</a>
@@ -20,9 +31,22 @@ Can passive signals from phones, wearables, and the environment reliably model b
 
 > **Now** — pretraining a longitudinal multimodal foundation model, and in parallel building the audit toolkit for the wearable signals it depends on.
 
-**Affiliations**
+---
 
-| Lab | Institution |
+## Current Focus
+
+- Multimodal health foundation models
+- Passive sensing reliability in depression
+- Wearable signal auditing and downstream error propagation
+- Environmental and physiological confounding in health AI
+- Longitudinal behavioral forecasting
+- Climate-health and mental health risk modeling
+
+---
+
+## Affiliations
+
+| Lab / Program | Institution |
 |---|---|
 | AIM HIGH Lab | Geisel School of Medicine |
 | Empower Lab | Thayer School of Engineering |
@@ -38,7 +62,7 @@ Multi-method evaluation of how reliably wearable and smartphone passive sensing 
 
 **[Smartphone Missingness as a Depression Biomarker: A Baseline-Controlled Re-analysis of StudentLife](https://doi.org/10.64898/2026.04.30.26351977)**  
 **Olcan, C.** — *medRxiv*, May 2026.  
-Tests whether smartphone data missingness — typically treated as a nuisance — itself functions as a depression biomarker, via a baseline-controlled re-analysis of the StudentLife cohort.
+Tests whether smartphone data missingness — typically treated as a nuisance — itself functions as a depression biomarker through a baseline-controlled re-analysis of the StudentLife cohort.
 
 **[Moderate-to-severe olfactory dysfunction marks accelerated phenotypic aging in U.S. adults](https://doi.org/10.21203/rs.3.rs-9646723/v1)**  
 **Olcan, C.** — *Research Square*, May 2026.  
@@ -48,7 +72,7 @@ Population-scale evidence that moderate-to-severe olfactory dysfunction tracks w
 
 ---
 
-## Active code
+## Active Code
 
 **[longitudinal-health-foundation-model](https://github.com/ceyhunolcan/longitudinal-health-foundation-model)**  
 Self-supervised pretraining over months of wearable, smartphone, and environmental streams, built for transfer to downstream behavioral-health forecasting.
@@ -64,7 +88,19 @@ Risk analytics and strategic systems modeling engine.
 
 ---
 
-## Currently thinking about
+## Research Themes
+
+- Longitudinal behavioral forecasting
+- Digital biomarkers and passive sensing reliability
+- Wearable signal quality, drift, and fairness
+- Biomedical foundation models
+- Computational psychiatry
+- Climate-health systems
+- Clinical translation of AI systems
+
+---
+
+## Currently Thinking About
 
 - How reliable is passive sensing as a depression biomarker under everyday adherence drift?
 - What pretraining objectives transfer best across heterogeneous wearable cohorts?
@@ -73,9 +109,40 @@ Risk analytics and strategic systems modeling engine.
 
 ---
 
+## Research Philosophy
+
+I believe behavioral health AI systems should be:
+
+- Longitudinal
+- Interpretable
+- Reproducible
+- Fairness-audited
+- Clinically translatable
+
+---
+
+## Talks & Media
+
+- TEDx Speaker
+- One Young World Pfizer Scholar
+- World Economic Forum participant
+- UNESCO IESALC Delegate
+- Climate and youth advocacy organizer
+
+---
+
 ## Toolchain
 
 `Python` · `PyTorch` · `scikit-learn` · `pandas` · `NumPy` · `Linux` · `Git` · `Streamlit`
+
+---
+
+## GitHub Snapshot
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ceyhunolcan&show_icons=true&hide_border=true" />
+  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ceyhunolcan&layout=compact&hide_border=true" />
+</p>
 
 ---
 
