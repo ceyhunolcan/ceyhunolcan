@@ -1,6 +1,6 @@
 <!-- ============================================================ -->
 <!--   §  CEYHUN OLCAN — PROFILE README                          -->
-<!--   §  6 parts. No filler. No vanity badges. No empty TODOs.  -->
+<!--   §  6 parts. Only on services that actually stay up.       -->
 <!-- ============================================================ -->
 
 <!-- ─── PART 1 · HEADER ─────────────────────────────────────── -->
@@ -113,23 +113,52 @@ In passive-sensing studies, **missing data is treated as noise** — something t
 
 ### Active Code
 
-<p align="center">
-  <a href="https://github.com/ceyhunolcan/longitudinal-health-foundation-model">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ceyhunolcan&repo=longitudinal-health-foundation-model&bg_color=0D1117&title_color=7AA5C7&text_color=E8ECF0&icon_color=D4A574&hide_border=true" />
-  </a>
-  <a href="https://github.com/ceyhunolcan/biomedical-signal-forensics-lab">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ceyhunolcan&repo=biomedical-signal-forensics-lab&bg_color=0D1117&title_color=7AA5C7&text_color=E8ECF0&icon_color=D4A574&hide_border=true" />
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/ceyhunolcan/od-activity-rhythm">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ceyhunolcan&repo=od-activity-rhythm&bg_color=0D1117&title_color=7AA5C7&text_color=E8ECF0&icon_color=D4A574&hide_border=true" />
-  </a>
-  <a href="https://github.com/ceyhunolcan/aegis-controlrisk-v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ceyhunolcan&repo=aegis-controlrisk-v2&bg_color=0D1117&title_color=7AA5C7&text_color=E8ECF0&icon_color=D4A574&hide_border=true" />
-  </a>
-</p>
+#### [longitudinal-health-foundation-model](https://github.com/ceyhunolcan/longitudinal-health-foundation-model)
+
+<a href="https://github.com/ceyhunolcan/longitudinal-health-foundation-model"><img src="https://img.shields.io/github/stars/ceyhunolcan/longitudinal-health-foundation-model?style=flat-square&label=%E2%98%85&color=D4A574&labelColor=0D1117" /></a>
+<a href="https://github.com/ceyhunolcan/longitudinal-health-foundation-model/commits/main"><img src="https://img.shields.io/github/last-commit/ceyhunolcan/longitudinal-health-foundation-model?style=flat-square&label=updated&color=88B5A8&labelColor=0D1117" /></a>
+
+Self-supervised pretraining over months of wearable, smartphone, and environmental streams. Built for transfer to downstream behavioral-health forecasting.
+
+</td>
+<td width="50%" valign="top">
+
+#### [biomedical-signal-forensics-lab](https://github.com/ceyhunolcan/biomedical-signal-forensics-lab)
+
+<a href="https://github.com/ceyhunolcan/biomedical-signal-forensics-lab"><img src="https://img.shields.io/github/stars/ceyhunolcan/biomedical-signal-forensics-lab?style=flat-square&label=%E2%98%85&color=D4A574&labelColor=0D1117" /></a>
+<a href="https://github.com/ceyhunolcan/biomedical-signal-forensics-lab/commits/main"><img src="https://img.shields.io/github/last-commit/ceyhunolcan/biomedical-signal-forensics-lab?style=flat-square&label=updated&color=88B5A8&labelColor=0D1117" /></a>
+
+Auditing toolkit for wearable physiological signals — quality, drift, demographic fairness. Methodological companion to the *Reliability of Passive Sensing* preprint.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### [od-activity-rhythm](https://github.com/ceyhunolcan/od-activity-rhythm)
+
+<a href="https://github.com/ceyhunolcan/od-activity-rhythm"><img src="https://img.shields.io/github/stars/ceyhunolcan/od-activity-rhythm?style=flat-square&label=%E2%98%85&color=D4A574&labelColor=0D1117" /></a>
+<a href="https://github.com/ceyhunolcan/od-activity-rhythm/commits/main"><img src="https://img.shields.io/github/last-commit/ceyhunolcan/od-activity-rhythm?style=flat-square&label=updated&color=88B5A8&labelColor=0D1117" /></a>
+
+NHANES pipeline linking olfactory dysfunction to circadian rhythm fragmentation and activity reduction. Companion to the *Olfactory Dysfunction & Phenotypic Aging* preprint.
+
+</td>
+<td width="50%" valign="top">
+
+#### [aegis-controlrisk-v2](https://github.com/ceyhunolcan/aegis-controlrisk-v2)
+
+<a href="https://github.com/ceyhunolcan/aegis-controlrisk-v2"><img src="https://img.shields.io/github/stars/ceyhunolcan/aegis-controlrisk-v2?style=flat-square&label=%E2%98%85&color=D4A574&labelColor=0D1117" /></a>
+<a href="https://github.com/ceyhunolcan/aegis-controlrisk-v2/commits/main"><img src="https://img.shields.io/github/last-commit/ceyhunolcan/aegis-controlrisk-v2?style=flat-square&label=updated&color=88B5A8&labelColor=0D1117" /></a>
+
+Risk analytics and strategic systems modeling engine.
+
+</td>
+</tr>
+</table>
 
 <p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
@@ -157,13 +186,12 @@ In passive-sensing studies, **missing data is treated as noise** — something t
 
 <p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-<!-- ─── PART 6 · GITHUB SNAPSHOT ────────────────────────────── -->
+<!-- ─── PART 6 · GITHUB ─────────────────────────────────────── -->
 
 ## § GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ceyhunolcan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=D4A574&text_color=E8ECF0&icon_color=7AA5C7&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhunolcan&layout=compact&hide_border=true&bg_color=0D1117&title_color=D4A574&text_color=E8ECF0&langs_count=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceyhunolcan&bg_color=0D1117&color=E8ECF0&line=7AA5C7&point=D4A574&area=true&area_color=7AA5C7&hide_border=true&title_color=D4A574&custom_title=Contribution+Activity" />
 </p>
 
 <p align="center">
