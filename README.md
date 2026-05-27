@@ -1,6 +1,7 @@
 <!-- ============================================================ -->
-<!--   ✦  CEYHUN OLCAN — PROFILE README                          -->
-<!--   ✦  Custom animated SVGs live in /assets                   -->
+<!--   §  CEYHUN OLCAN — PROFILE README                          -->
+<!--   §  Custom animated SVGs live in /assets                   -->
+<!--   §  Palette: Scholar (cognac · sage · terracotta · ink)    -->
 <!-- ============================================================ -->
 
 <!-- HERO -->
@@ -13,41 +14,41 @@
 <!-- ANIMATED ROLE LINE -->
 <p align="center">
   <a href="https://github.com/ceyhunolcan">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=16&duration=3000&pause=700&color=8B5CF6&center=true&vCenter=true&width=820&lines=Foundation+models+for+longitudinal+behavioral+health.;Wearable+signal+auditing+%E2%80%94+drift%2C+fairness%2C+propagation.;Passive+sensing+%C2%B7+computational+psychiatry+%C2%B7+climate%E2%80%93health.;Reliability+is+the+research." alt="Roles" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&weight=400&size=17&duration=3500&pause=800&color=D4A574&center=true&vCenter=true&width=820&lines=Foundation+models+for+longitudinal+behavioral+health.;Wearable+signal+auditing+%E2%80%94+drift%2C+fairness%2C+propagation.;Passive+sensing+%C2%B7+computational+psychiatry+%C2%B7+climate%E2%80%93health.;Reliability+is+the+research." alt="Roles" />
   </a>
 </p>
 
-<!-- IDENTITY BADGES (consistent palette: violet / cyan / magenta) -->
+<!-- IDENTITY BADGES -->
 <p align="center">
-  <img src="https://img.shields.io/badge/COMPUTATIONAL_HEALTH-22D3EE?style=for-the-badge&labelColor=0A0E27" />
-  <img src="https://img.shields.io/badge/DIGITAL_PHENOTYPING-8B5CF6?style=for-the-badge&labelColor=0A0E27" />
-  <img src="https://img.shields.io/badge/FOUNDATION_MODELS-EC4899?style=for-the-badge&labelColor=0A0E27" />
-  <img src="https://img.shields.io/badge/DARTMOUTH-22D3EE?style=for-the-badge&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/COMPUTATIONAL_HEALTH-88B5A8?style=for-the-badge&labelColor=0B1018" />
+  <img src="https://img.shields.io/badge/DIGITAL_PHENOTYPING-D4A574?style=for-the-badge&labelColor=0B1018" />
+  <img src="https://img.shields.io/badge/FOUNDATION_MODELS-C97064?style=for-the-badge&labelColor=0B1018" />
+  <img src="https://img.shields.io/badge/DARTMOUTH-88B5A8?style=for-the-badge&labelColor=0B1018" />
 </p>
 
 <!-- VANITY METRICS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ceyhunolcan&label=PROFILE+VIEWS&color=8B5CF6&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/ceyhunolcan?label=FOLLOWERS&style=flat-square&color=22D3EE&labelColor=0A0E27" />
-  <img src="https://img.shields.io/github/stars/ceyhunolcan?label=STARS&style=flat-square&color=EC4899&labelColor=0A0E27" />
+  <img src="https://komarev.com/ghpvc/?username=ceyhunolcan&label=PROFILE+VIEWS&color=D4A574&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/ceyhunolcan?label=FOLLOWERS&style=flat-square&color=88B5A8&labelColor=0B1018" />
+  <img src="https://img.shields.io/github/stars/ceyhunolcan?label=STARS&style=flat-square&color=C97064&labelColor=0B1018" />
 </p>
 
 <!-- SOCIAL -->
 <p align="center">
   <a href="https://xclimate.co">
-    <img src="https://img.shields.io/badge/WEBSITE-xclimate.co-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0E27" />
+    <img src="https://img.shields.io/badge/WEBSITE-xclimate.co-88B5A8?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1018" />
   </a>
   <a href="https://orcid.org/0000-0002-6326-6071">
-    <img src="https://img.shields.io/badge/ORCID-0002--6326--6071-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0A0E27" />
+    <img src="https://img.shields.io/badge/ORCID-0002--6326--6071-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=0B1018" />
   </a>
   <a href="https://scholar.google.com/">
-    <img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-PROFILE-8B5CF6?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0A0E27" />
+    <img src="https://img.shields.io/badge/GOOGLE_SCHOLAR-PROFILE-D4A574?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0B1018" />
   </a>
   <a href="https://www.linkedin.com/in/ceyhun-olcan/">
-    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E27" />
+    <img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1018" />
   </a>
   <a href="https://bsky.app/">
-    <img src="https://img.shields.io/badge/BLUESKY-FOLLOW-EC4899?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=0A0E27" />
+    <img src="https://img.shields.io/badge/BLUESKY-FOLLOW-C97064?style=for-the-badge&logo=bluesky&logoColor=white&labelColor=0B1018" />
   </a>
 </p>
 
@@ -68,7 +69,7 @@
 
 <p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-## ✦ About
+## § About
 
 <table>
 <tr>
@@ -102,25 +103,25 @@ open_to:   collaborations, PhD talks
 
 <p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-## ✦ Now
+## § Now
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🧬 &nbsp;Pretraining v1**
+**Pretraining v1**
 A longitudinal multimodal foundation model — months of wearable, smartphone, and environmental streams. Self-supervised. Built for transfer to behavioral-health forecasting.
 
-**🔍 &nbsp;Signal forensics**
+**Signal forensics**
 Auditing the wearable signals the model depends on. Quality, drift, demographic fairness — and how each one propagates into downstream error.
 
 </td>
 <td width="50%" valign="top">
 
-**📄 &nbsp;In review**
+**In review**
 Three preprints: passive sensing reliability, smartphone missingness as a depression biomarker, and olfactory dysfunction as a marker of phenotypic aging.
 
-**🌱 &nbsp;Open to**
+**Open to**
 PhD program conversations, foundation-model evaluation collaborations, and climate–health crossovers. <a href="#-contact">Get in touch</a>.
 
 </td>
@@ -131,7 +132,7 @@ PhD program conversations, foundation-model evaluation collaborations, and clima
 
 <p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-## ✦ Research
+## § Research
 
 <p align="center">
   <img src="assets/themes.svg" alt="Four research threads, one question" width="100%" />
@@ -139,7 +140,7 @@ PhD program conversations, foundation-model evaluation collaborations, and clima
 
 <p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-## ✦ Affiliations
+## § Affiliations
 
 <table align="center">
 <tr>
@@ -162,31 +163,31 @@ PhD program conversations, foundation-model evaluation collaborations, and clima
 
 <p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-## ✦ Selected Preprints
+## § Selected Preprints
 
 > **[Reliability of Passive Sensing Data: A Multi-Method Evaluation in Depression](https://doi.org/10.31234/osf.io/uydqj_v1)**
 > Langener, Lee, Castro-Alvarez, Lampe, Enbar-Salo, Ramrakhiani, **Olcan**, Dorris, Price, Heinz, et al. — *PsyArXiv*, May 2026.
 >
 > How reliably do wearable and smartphone passive sensing actually capture signal in depression? A multi-method evaluation.
 >
-> <img src="https://img.shields.io/badge/PsyArXiv-2026-22D3EE?style=flat-square&labelColor=0A0E27" /> <img src="https://img.shields.io/badge/Method-Reliability-8B5CF6?style=flat-square&labelColor=0A0E27" /> <img src="https://img.shields.io/badge/Domain-Depression-EC4899?style=flat-square&labelColor=0A0E27" />
+> <img src="https://img.shields.io/badge/PsyArXiv-2026-88B5A8?style=flat-square&labelColor=0B1018" /> <img src="https://img.shields.io/badge/Method-Reliability-D4A574?style=flat-square&labelColor=0B1018" /> <img src="https://img.shields.io/badge/Domain-Depression-C97064?style=flat-square&labelColor=0B1018" />
 
 > **[Smartphone Missingness as a Depression Biomarker](https://doi.org/10.64898/2026.04.30.26351977)**
 > **Olcan, C.** — *medRxiv*, May 2026.
 >
 > Reframes smartphone data missingness — usually treated as a nuisance — as itself a depression biomarker, via a baseline-controlled re-analysis of the StudentLife cohort.
 >
-> <img src="https://img.shields.io/badge/medRxiv-2026-22D3EE?style=flat-square&labelColor=0A0E27" /> <img src="https://img.shields.io/badge/Method-Causal_inference-8B5CF6?style=flat-square&labelColor=0A0E27" /> <img src="https://img.shields.io/badge/Cohort-StudentLife-EC4899?style=flat-square&labelColor=0A0E27" />
+> <img src="https://img.shields.io/badge/medRxiv-2026-88B5A8?style=flat-square&labelColor=0B1018" /> <img src="https://img.shields.io/badge/Method-Causal_inference-D4A574?style=flat-square&labelColor=0B1018" /> <img src="https://img.shields.io/badge/Cohort-StudentLife-C97064?style=flat-square&labelColor=0B1018" />
 
 > **[Moderate-to-Severe Olfactory Dysfunction Marks Accelerated Phenotypic Aging in U.S. Adults](https://doi.org/10.21203/rs.3.rs-9646723/v1)**
 > **Olcan, C.** — *Research Square*, May 2026.
 >
 > Population-scale evidence that moderate-to-severe olfactory dysfunction tracks with accelerated phenotypic aging.
 >
-> <img src="https://img.shields.io/badge/Research_Square-2026-22D3EE?style=flat-square&labelColor=0A0E27" /> <img src="https://img.shields.io/badge/Cohort-NHANES-8B5CF6?style=flat-square&labelColor=0A0E27" /> <img src="https://img.shields.io/badge/Domain-Aging-EC4899?style=flat-square&labelColor=0A0E27" />
+> <img src="https://img.shields.io/badge/Research_Square-2026-88B5A8?style=flat-square&labelColor=0B1018" /> <img src="https://img.shields.io/badge/Cohort-NHANES-D4A574?style=flat-square&labelColor=0B1018" /> <img src="https://img.shields.io/badge/Domain-Aging-C97064?style=flat-square&labelColor=0B1018" />
 
 <details>
-<summary><sub><b>📚 &nbsp;Full publication list →</b></sub></summary>
+<summary><sub><b>Full publication list →</b></sub></summary>
 
 <br>
 
@@ -198,26 +199,26 @@ Maintained on [**ORCID**](https://orcid.org/0000-0002-6326-6071) and [**Google S
 
 <p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-## ✦ Active Code
+## § Active Code
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧬 [longitudinal-health-foundation-model](https://github.com/ceyhunolcan/longitudinal-health-foundation-model)
+### [longitudinal-health-foundation-model](https://github.com/ceyhunolcan/longitudinal-health-foundation-model)
 
-<a href="https://github.com/ceyhunolcan/longitudinal-health-foundation-model"><img src="https://img.shields.io/github/stars/ceyhunolcan/longitudinal-health-foundation-model?style=flat-square&label=%E2%98%85&color=EC4899&labelColor=0A0E27" /></a>
-<a href="https://github.com/ceyhunolcan/longitudinal-health-foundation-model/commits/main"><img src="https://img.shields.io/github/last-commit/ceyhunolcan/longitudinal-health-foundation-model?style=flat-square&label=updated&color=22D3EE&labelColor=0A0E27" /></a>
+<a href="https://github.com/ceyhunolcan/longitudinal-health-foundation-model"><img src="https://img.shields.io/github/stars/ceyhunolcan/longitudinal-health-foundation-model?style=flat-square&label=%E2%98%85&color=D4A574&labelColor=0B1018" /></a>
+<a href="https://github.com/ceyhunolcan/longitudinal-health-foundation-model/commits/main"><img src="https://img.shields.io/github/last-commit/ceyhunolcan/longitudinal-health-foundation-model?style=flat-square&label=updated&color=88B5A8&labelColor=0B1018" /></a>
 
 Self-supervised pretraining over months of wearable, smartphone, and environmental streams. Built for transfer to downstream behavioral-health forecasting.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔬 [biomedical-signal-forensics-lab](https://github.com/ceyhunolcan/biomedical-signal-forensics-lab)
+### [biomedical-signal-forensics-lab](https://github.com/ceyhunolcan/biomedical-signal-forensics-lab)
 
-<a href="https://github.com/ceyhunolcan/biomedical-signal-forensics-lab"><img src="https://img.shields.io/github/stars/ceyhunolcan/biomedical-signal-forensics-lab?style=flat-square&label=%E2%98%85&color=EC4899&labelColor=0A0E27" /></a>
-<a href="https://github.com/ceyhunolcan/biomedical-signal-forensics-lab/commits/main"><img src="https://img.shields.io/github/last-commit/ceyhunolcan/biomedical-signal-forensics-lab?style=flat-square&label=updated&color=22D3EE&labelColor=0A0E27" /></a>
+<a href="https://github.com/ceyhunolcan/biomedical-signal-forensics-lab"><img src="https://img.shields.io/github/stars/ceyhunolcan/biomedical-signal-forensics-lab?style=flat-square&label=%E2%98%85&color=D4A574&labelColor=0B1018" /></a>
+<a href="https://github.com/ceyhunolcan/biomedical-signal-forensics-lab/commits/main"><img src="https://img.shields.io/github/last-commit/ceyhunolcan/biomedical-signal-forensics-lab?style=flat-square&label=updated&color=88B5A8&labelColor=0B1018" /></a>
 
 Auditing toolkit for wearable physiological signals — quality, drift, demographic fairness, and how each propagates into downstream model error. Methodological companion to the *Reliability of Passive Sensing* preprint.
 
@@ -226,20 +227,20 @@ Auditing toolkit for wearable physiological signals — quality, drift, demograp
 <tr>
 <td width="50%" valign="top">
 
-### 🌀 [od-activity-rhythm](https://github.com/ceyhunolcan/od-activity-rhythm)
+### [od-activity-rhythm](https://github.com/ceyhunolcan/od-activity-rhythm)
 
-<a href="https://github.com/ceyhunolcan/od-activity-rhythm"><img src="https://img.shields.io/github/stars/ceyhunolcan/od-activity-rhythm?style=flat-square&label=%E2%98%85&color=EC4899&labelColor=0A0E27" /></a>
-<a href="https://github.com/ceyhunolcan/od-activity-rhythm/commits/main"><img src="https://img.shields.io/github/last-commit/ceyhunolcan/od-activity-rhythm?style=flat-square&label=updated&color=22D3EE&labelColor=0A0E27" /></a>
+<a href="https://github.com/ceyhunolcan/od-activity-rhythm"><img src="https://img.shields.io/github/stars/ceyhunolcan/od-activity-rhythm?style=flat-square&label=%E2%98%85&color=D4A574&labelColor=0B1018" /></a>
+<a href="https://github.com/ceyhunolcan/od-activity-rhythm/commits/main"><img src="https://img.shields.io/github/last-commit/ceyhunolcan/od-activity-rhythm?style=flat-square&label=updated&color=88B5A8&labelColor=0B1018" /></a>
 
 NHANES pipeline linking olfactory dysfunction to circadian rhythm fragmentation and activity reduction. Companion code to the *Olfactory Dysfunction & Phenotypic Aging* preprint.
 
 </td>
 <td width="50%" valign="top">
 
-### 🛡 [aegis-controlrisk-v2](https://github.com/ceyhunolcan/aegis-controlrisk-v2)
+### [aegis-controlrisk-v2](https://github.com/ceyhunolcan/aegis-controlrisk-v2)
 
-<a href="https://github.com/ceyhunolcan/aegis-controlrisk-v2"><img src="https://img.shields.io/github/stars/ceyhunolcan/aegis-controlrisk-v2?style=flat-square&label=%E2%98%85&color=EC4899&labelColor=0A0E27" /></a>
-<a href="https://github.com/ceyhunolcan/aegis-controlrisk-v2/commits/main"><img src="https://img.shields.io/github/last-commit/ceyhunolcan/aegis-controlrisk-v2?style=flat-square&label=updated&color=22D3EE&labelColor=0A0E27" /></a>
+<a href="https://github.com/ceyhunolcan/aegis-controlrisk-v2"><img src="https://img.shields.io/github/stars/ceyhunolcan/aegis-controlrisk-v2?style=flat-square&label=%E2%98%85&color=D4A574&labelColor=0B1018" /></a>
+<a href="https://github.com/ceyhunolcan/aegis-controlrisk-v2/commits/main"><img src="https://img.shields.io/github/last-commit/ceyhunolcan/aegis-controlrisk-v2?style=flat-square&label=updated&color=88B5A8&labelColor=0B1018" /></a>
 
 Risk analytics and strategic systems modeling engine.
 
@@ -249,22 +250,22 @@ Risk analytics and strategic systems modeling engine.
 
 <p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-## ✦ Open Questions
+## § Open Questions
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-> How reliable is passive sensing as a depression biomarker under everyday adherence drift?
+> *How reliable is passive sensing as a depression biomarker under everyday adherence drift?*
 
-> What pretraining objectives transfer best across heterogeneous wearable cohorts?
+> *What pretraining objectives transfer best across heterogeneous wearable cohorts?*
 
 </td>
 <td width="50%" valign="top">
 
-> Where does climate exposure enter the causal graph between environment, behavior, and mood?
+> *Where does climate exposure enter the causal graph between environment, behavior, and mood?*
 
-> What does an honest fairness audit of a wearable health model actually look like?
+> *What does an honest fairness audit of a wearable health model actually look like?*
 
 </td>
 </tr>
@@ -272,23 +273,23 @@ Risk analytics and strategic systems modeling engine.
 
 <p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-## ✦ Principles
+## § Principles
 
 <p align="center">
   <i>Behavioral health AI should be</i> &nbsp;
-  <img src="https://img.shields.io/badge/LONGITUDINAL-22D3EE?style=for-the-badge&labelColor=0A0E27" />
-  <img src="https://img.shields.io/badge/INTERPRETABLE-8B5CF6?style=for-the-badge&labelColor=0A0E27" />
-  <img src="https://img.shields.io/badge/REPRODUCIBLE-EC4899?style=for-the-badge&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/LONGITUDINAL-88B5A8?style=for-the-badge&labelColor=0B1018" />
+  <img src="https://img.shields.io/badge/INTERPRETABLE-D4A574?style=for-the-badge&labelColor=0B1018" />
+  <img src="https://img.shields.io/badge/REPRODUCIBLE-C97064?style=for-the-badge&labelColor=0B1018" />
   <br><br>
-  <img src="https://img.shields.io/badge/FAIRNESS--AUDITED-22D3EE?style=for-the-badge&labelColor=0A0E27" />
-  <img src="https://img.shields.io/badge/CLINICALLY_TRANSLATABLE-8B5CF6?style=for-the-badge&labelColor=0A0E27" />
+  <img src="https://img.shields.io/badge/FAIRNESS--AUDITED-88B5A8?style=for-the-badge&labelColor=0B1018" />
+  <img src="https://img.shields.io/badge/CLINICALLY_TRANSLATABLE-D4A574?style=for-the-badge&labelColor=0B1018" />
   <br><br>
   <i>— or it shouldn't ship.</i>
 </p>
 
 <p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-## ✦ Roadmap
+## § Roadmap
 
 - [ ] Pretrain **v1** of the longitudinal foundation model on cohort-merged data
 - [ ] Open-source the **signal forensics toolkit** with reproducible benchmarks
@@ -298,25 +299,25 @@ Risk analytics and strategic systems modeling engine.
 
 <p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-## ✦ Speaking & Press
+## § Speaking & Press
 
 <details>
-<summary><sub><b>🎤 &nbsp;Talks, fellowships, and delegations →</b></sub></summary>
+<summary><sub><b>Talks, fellowships, and delegations →</b></sub></summary>
 
 <br>
 
 | | |
 |---|---|
-| 🎙 | **TEDx Speaker** — <!-- TODO: talk title · location · year · link --> |
-| 🏅 | **One Young World Pfizer Scholar** — <!-- TODO: year --> |
-| 🌐 | **World Economic Forum** — participant <!-- TODO: year · event --> |
-| 🎓 | **UNESCO IESALC** — delegate <!-- TODO: year · event --> |
-| 🌱 | **Climate and youth advocacy organizer** — <!-- TODO: orgs, roles --> |
+| · | **TEDx Speaker** — <!-- TODO: talk title · location · year · link --> |
+| · | **One Young World Pfizer Scholar** — <!-- TODO: year --> |
+| · | **World Economic Forum** — participant <!-- TODO: year · event --> |
+| · | **UNESCO IESALC** — delegate <!-- TODO: year · event --> |
+| · | **Climate and youth advocacy organizer** — <!-- TODO: orgs, roles --> |
 
 </details>
 
 <details>
-<summary><sub><b>📝 &nbsp;Peer review &amp; service →</b></sub></summary>
+<summary><sub><b>Peer review &amp; service →</b></sub></summary>
 
 <br>
 
@@ -326,7 +327,7 @@ Risk analytics and strategic systems modeling engine.
 
 <p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-## ✦ Toolchain
+## § Toolchain
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -371,32 +372,32 @@ Risk analytics and strategic systems modeling engine.
 
 <p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-## ✦ GitHub Snapshot
+## § GitHub Snapshot
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ceyhunolcan&show_icons=true&hide_border=true&bg_color=0A0E27&title_color=EC4899&text_color=CBD5E1&icon_color=22D3EE&include_all_commits=true&count_private=true&rank_icon=github" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhunolcan&layout=compact&hide_border=true&bg_color=0A0E27&title_color=EC4899&text_color=CBD5E1&langs_count=8" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=ceyhunolcan&show_icons=true&hide_border=true&bg_color=0B1018&title_color=D4A574&text_color=E8ECF0&icon_color=88B5A8&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceyhunolcan&layout=compact&hide_border=true&bg_color=0B1018&title_color=D4A574&text_color=E8ECF0&langs_count=8" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ceyhunolcan&hide_border=true&background=0A0E27&stroke=8B5CF6&ring=EC4899&fire=22D3EE&currStreakLabel=EC4899&currStreakNum=CBD5E1&sideLabels=CBD5E1&sideNums=CBD5E1&dates=94A3B8" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ceyhunolcan&hide_border=true&background=0B1018&stroke=D4A574&ring=C97064&fire=88B5A8&currStreakLabel=D4A574&currStreakNum=E8ECF0&sideLabels=E8ECF0&sideNums=E8ECF0&dates=94A3B8" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceyhunolcan&bg_color=0A0E27&color=CBD5E1&line=8B5CF6&point=EC4899&area=true&area_color=22D3EE&hide_border=true&title_color=EC4899&custom_title=Contribution+Activity" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceyhunolcan&bg_color=0B1018&color=E8ECF0&line=D4A574&point=88B5A8&area=true&area_color=C97064&hide_border=true&title_color=D4A574&custom_title=Contribution+Activity" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ceyhunolcan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ceyhunolcan&theme=gruvbox&no-frame=true&column=7&margin-w=10&margin-h=10" />
 </p>
 
-<!-- SNAKE CONTRIBUTION ANIMATION (requires .github/workflows/snake.yml) -->
+<!-- SNAKE CONTRIBUTION ANIMATION -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/ceyhunolcan/ceyhunolcan/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <details>
-<summary><sub><b>⚙ &nbsp;Snake animation setup →</b></sub></summary>
+<summary><sub><b>Snake animation setup →</b></sub></summary>
 
 <br>
 
@@ -406,24 +407,24 @@ Drop `snake.yml` (included) at `.github/workflows/snake.yml` in this repo. Trigg
 
 <p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
-## ✦ Contact
+## § Contact
 
 <p align="center">
-  <a href="assets/footer.svg"><img src="assets/footer.svg" width="100%" alt="Open to research collaborations" /></a>
+  <img src="assets/footer.svg" width="100%" alt="Open to research collaborations" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ceyhun-olcan/">
-    <img src="https://img.shields.io/badge/Reach_out_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0E27" />
+    <img src="https://img.shields.io/badge/Reach_out_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1018" />
   </a>
   &nbsp;
   <a href="https://xclimate.co">
-    <img src="https://img.shields.io/badge/Visit_my_website-22D3EE?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0A0E27" />
+    <img src="https://img.shields.io/badge/Visit_my_website-D4A574?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B1018" />
   </a>
 </p>
 
 <p align="center"><sub>Hanover, NH · Dartmouth College</sub></p>
 
 <!-- ============================================================ -->
-<!--   ✦  END                                                     -->
+<!--   §  END                                                     -->
 <!-- ============================================================ -->
