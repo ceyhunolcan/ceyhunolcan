@@ -1,6 +1,6 @@
 <!-- ============================================================ -->
 <!--   §  CEYHUN OLCAN — PROFILE README                          -->
-<!--   §  6 parts. Only on services that actually stay up.       -->
+<!--   §  5 parts. Snake lives inline, not as a section.         -->
 <!-- ============================================================ -->
 
 <!-- ─── PART 1 · HEADER ─────────────────────────────────────── -->
@@ -184,21 +184,11 @@ Risk analytics and strategic systems modeling engine.
   </a>
 </p>
 
-<p align="center"><img src="assets/divider.svg" width="100%" /></p>
-
-<!-- ─── PART 6 · GITHUB ─────────────────────────────────────── -->
-
-## § GitHub
+<!-- ─── INLINE · SNAKE ──────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ceyhunolcan&bg_color=0D1117&color=E8ECF0&line=7AA5C7&point=D4A574&area=true&area_color=7AA5C7&hide_border=true&title_color=D4A574&custom_title=Contribution+Activity" />
+  <img src="https://raw.githubusercontent.com/ceyhunolcan/ceyhunolcan/output/github-contribution-grid-snake.svg" alt="A snake animation traversing my GitHub contribution grid" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ceyhunolcan/ceyhunolcan/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-<p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
 <!-- ─── CLOSE · CONTACT ─────────────────────────────────────── -->
 
