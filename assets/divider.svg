@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" preserveAspectRatio="none" role="presentation">
+  <defs>
+    <linearGradient id="dg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#22d3ee" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="70%" stop-color="#ec4899" stop-opacity="0.7"/>
+      <stop offset="100%" stop-color="#ec4899" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="dgGlow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur stdDeviation="1.5"/>
+    </filter>
+  </defs>
+  <line x1="0" y1="12" x2="1200" y2="12" stroke="url(#dg)" stroke-width="1" filter="url(#dgGlow)"/>
+  <line x1="0" y1="12" x2="1200" y2="12" stroke="url(#dg)" stroke-width="0.6"/>
+  <circle r="2.5" fill="#ec4899" filter="url(#dgGlow)">
+    <animateMotion dur="6s" repeatCount="indefinite" path="M 0,12 L 1200,12"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="6s" repeatCount="indefinite"/>
+  </circle>
+  <circle r="2" fill="#22d3ee" filter="url(#dgGlow)">
+    <animateMotion dur="6s" begin="3s" repeatCount="indefinite" path="M 1200,12 L 0,12"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.9;1" dur="6s" begin="3s" repeatCount="indefinite"/>
+  </circle>
+</svg>

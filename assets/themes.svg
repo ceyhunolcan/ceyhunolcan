@@ -1,0 +1,103 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 280" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Research themes constellation">
+  <defs>
+    <linearGradient id="rbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0a0c24"/>
+      <stop offset="100%" stop-color="#1a1438"/>
+    </linearGradient>
+    <radialGradient id="rcenter" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.25"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="rglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="280" fill="url(#rbg)"/>
+  <rect width="1200" height="280" fill="url(#rcenter)"/>
+
+  <!-- Center anchor -->
+  <g transform="translate(600, 140)">
+    <circle r="6" fill="#ec4899" filter="url(#rglow)">
+      <animate attributeName="r" values="5;8;5" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="32" text-anchor="middle" font-family="ui-monospace, monospace" font-size="10" fill="#94a3b8" letter-spacing="3">ONE QUESTION</text>
+    <text x="0" y="50" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="13" fill="#cbd5e1" font-style="italic">what does it take to make</text>
+    <text x="0" y="68" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="13" fill="#cbd5e1" font-style="italic">behavioral health AI hold up in the real world?</text>
+  </g>
+
+  <!-- 4 quadrant connection lines -->
+  <g stroke-width="1" fill="none" opacity="0.4">
+    <line x1="600" y1="140" x2="220" y2="60" stroke="#22d3ee">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="4s" repeatCount="indefinite"/>
+    </line>
+    <line x1="600" y1="140" x2="980" y2="60" stroke="#8b5cf6">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="4s" begin="1s" repeatCount="indefinite"/>
+    </line>
+    <line x1="600" y1="140" x2="220" y2="220" stroke="#ec4899">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="4s" begin="2s" repeatCount="indefinite"/>
+    </line>
+    <line x1="600" y1="140" x2="980" y2="220" stroke="#22d3ee">
+      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="4s" begin="3s" repeatCount="indefinite"/>
+    </line>
+  </g>
+
+  <!-- Traveling pulses along each line -->
+  <circle r="2.5" fill="#22d3ee" filter="url(#rglow)">
+    <animateMotion dur="4s" repeatCount="indefinite" path="M 600,140 L 220,60"/>
+  </circle>
+  <circle r="2.5" fill="#8b5cf6" filter="url(#rglow)">
+    <animateMotion dur="4s" begin="1s" repeatCount="indefinite" path="M 600,140 L 980,60"/>
+  </circle>
+  <circle r="2.5" fill="#ec4899" filter="url(#rglow)">
+    <animateMotion dur="4s" begin="2s" repeatCount="indefinite" path="M 600,140 L 220,220"/>
+  </circle>
+  <circle r="2.5" fill="#22d3ee" filter="url(#rglow)">
+    <animateMotion dur="4s" begin="3s" repeatCount="indefinite" path="M 600,140 L 980,220"/>
+  </circle>
+
+  <!-- Quadrant 1: Foundation Models (top-left) -->
+  <g transform="translate(220, 60)">
+    <circle r="5" fill="#22d3ee" filter="url(#rglow)">
+      <animate attributeName="r" values="4;6;4" dur="2.5s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="-18" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9" fill="#22d3ee" letter-spacing="2">01</text>
+    <text x="0" y="22" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="15" font-weight="700" fill="#e2e8f0">Foundation Models</text>
+    <text x="0" y="40" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" fill="#94a3b8">Self-supervised pretraining over</text>
+    <text x="0" y="54" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" fill="#94a3b8">multimodal sensor streams</text>
+  </g>
+
+  <!-- Quadrant 2: Reliability & Auditing (top-right) -->
+  <g transform="translate(980, 60)">
+    <circle r="5" fill="#8b5cf6" filter="url(#rglow)">
+      <animate attributeName="r" values="4;6;4" dur="2.7s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="-18" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9" fill="#8b5cf6" letter-spacing="2">02</text>
+    <text x="0" y="22" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="15" font-weight="700" fill="#e2e8f0">Reliability &amp; Auditing</text>
+    <text x="0" y="40" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" fill="#94a3b8">Drift, missingness, fairness —</text>
+    <text x="0" y="54" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" fill="#94a3b8">propagated downstream</text>
+  </g>
+
+  <!-- Quadrant 3: Computational Psychiatry (bottom-left) -->
+  <g transform="translate(220, 220)">
+    <circle r="5" fill="#ec4899" filter="url(#rglow)">
+      <animate attributeName="r" values="4;6;4" dur="2.9s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="-18" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9" fill="#ec4899" letter-spacing="2">03</text>
+    <text x="0" y="22" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="15" font-weight="700" fill="#e2e8f0">Computational Psychiatry</text>
+    <text x="0" y="40" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" fill="#94a3b8">Passive sensing for depression</text>
+    <text x="0" y="54" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" fill="#94a3b8">under adherence drift</text>
+  </g>
+
+  <!-- Quadrant 4: Climate–Health Systems (bottom-right) -->
+  <g transform="translate(980, 220)">
+    <circle r="5" fill="#22d3ee" filter="url(#rglow)">
+      <animate attributeName="r" values="4;6;4" dur="3.1s" repeatCount="indefinite"/>
+    </circle>
+    <text x="0" y="-18" text-anchor="middle" font-family="ui-monospace, monospace" font-size="9" fill="#22d3ee" letter-spacing="2">04</text>
+    <text x="0" y="22" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="15" font-weight="700" fill="#e2e8f0">Climate–Health Systems</text>
+    <text x="0" y="40" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" fill="#94a3b8">Environmental confounding —</text>
+    <text x="0" y="54" text-anchor="middle" font-family="-apple-system, sans-serif" font-size="11" fill="#94a3b8">climate as structure, not noise</text>
+  </g>
+</svg>
