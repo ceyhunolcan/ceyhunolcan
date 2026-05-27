@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 380" preserveAspectRatio="xMidYMid meet" role="img" aria-label="Visual abstract: Smartphone missingness as a depression biomarker">
+  <defs>
+    <linearGradient id="vabg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0B0F18"/>
+      <stop offset="100%" stop-color="#162033"/>
+    </linearGradient>
+    <linearGradient id="phqGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#D4A574" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#D4A574" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="vaglow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="380" fill="url(#vabg)"/>
+
+  <!-- Title -->
+  <text x="60" y="42" font-family="Georgia, 'Iowan Old Style', serif" font-size="18" font-weight="600" fill="#E8ECF0">The gaps <tspan font-style="italic">are</tspan> the signal.</text>
+  <text x="60" y="62" font-family="ui-monospace, monospace" font-size="10" fill="#94A3B8" letter-spacing="2">SMARTPHONE MISSINGNESS · STUDENTLIFE COHORT · n = 48</text>
+
+  <!-- TOP PANEL: Phone activity bars -->
+  <g transform="translate(60, 100)">
+    <text x="-5" y="-8" text-anchor="end" font-family="ui-monospace, monospace" font-size="9" fill="#7AA5C7" letter-spacing="1">PHONE USE</text>
+    <!-- baseline -->
+    <line x1="0" y1="60" x2="1080" y2="60" stroke="#1E293B" stroke-width="0.5"/>
+
+    <!-- Activity bars: normal (steel blue), missing (gold/sparse) -->
+    <g>
+      <!-- normal days -->
+      <rect x="0" y="20" width="14" height="40" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="18" y="15" width="14" height="45" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="36" y="22" width="14" height="38" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="54" y="18" width="14" height="42" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="72" y="25" width="14" height="35" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="90" y="14" width="14" height="46" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="108" y="20" width="14" height="40" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="126" y="22" width="14" height="38" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="144" y="16" width="14" height="44" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="162" y="19" width="14" height="41" fill="#7AA5C7" opacity="0.85"/>
+
+      <!-- gap region 1: gold (missing) -->
+      <rect x="180" y="50" width="14" height="10" fill="#D4A574" opacity="0.8"/>
+      <rect x="198" y="55" width="14" height="5" fill="#D4A574" opacity="0.8"/>
+      <rect x="216" y="58" width="14" height="2" fill="#D4A574" opacity="0.6"/>
+      <rect x="234" y="56" width="14" height="4" fill="#D4A574" opacity="0.7"/>
+      <rect x="252" y="52" width="14" height="8" fill="#D4A574" opacity="0.8"/>
+      <!-- shaded background to highlight gap region -->
+      <rect x="178" y="0" width="92" height="65" fill="#D4A574" opacity="0.08"/>
+
+      <!-- back to normal -->
+      <rect x="270" y="20" width="14" height="40" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="288" y="17" width="14" height="43" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="306" y="22" width="14" height="38" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="324" y="19" width="14" height="41" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="342" y="14" width="14" height="46" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="360" y="21" width="14" height="39" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="378" y="18" width="14" height="42" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="396" y="23" width="14" height="37" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="414" y="16" width="14" height="44" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="432" y="20" width="14" height="40" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="450" y="22" width="14" height="38" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="468" y="17" width="14" height="43" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="486" y="19" width="14" height="41" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="504" y="15" width="14" height="45" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="522" y="22" width="14" height="38" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="540" y="18" width="14" height="42" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="558" y="20" width="14" height="40" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="576" y="24" width="14" height="36" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="594" y="16" width="14" height="44" fill="#7AA5C7" opacity="0.85"/>
+
+      <!-- gap region 2: gold (missing) -->
+      <rect x="612" y="55" width="14" height="5" fill="#D4A574" opacity="0.8"/>
+      <rect x="630" y="58" width="14" height="2" fill="#D4A574" opacity="0.6"/>
+      <rect x="648" y="56" width="14" height="4" fill="#D4A574" opacity="0.7"/>
+      <rect x="666" y="53" width="14" height="7" fill="#D4A574" opacity="0.8"/>
+      <rect x="684" y="58" width="14" height="2" fill="#D4A574" opacity="0.6"/>
+      <rect x="702" y="55" width="14" height="5" fill="#D4A574" opacity="0.8"/>
+      <!-- shaded gap region -->
+      <rect x="610" y="0" width="110" height="65" fill="#D4A574" opacity="0.08"/>
+
+      <!-- back to normal -->
+      <rect x="720" y="18" width="14" height="42" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="738" y="22" width="14" height="38" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="756" y="19" width="14" height="41" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="774" y="14" width="14" height="46" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="792" y="20" width="14" height="40" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="810" y="17" width="14" height="43" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="828" y="22" width="14" height="38" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="846" y="19" width="14" height="41" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="864" y="16" width="14" height="44" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="882" y="21" width="14" height="39" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="900" y="18" width="14" height="42" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="918" y="23" width="14" height="37" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="936" y="20" width="14" height="40" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="954" y="15" width="14" height="45" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="972" y="22" width="14" height="38" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="990" y="18" width="14" height="42" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="1008" y="20" width="14" height="40" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="1026" y="24" width="14" height="36" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="1044" y="16" width="14" height="44" fill="#7AA5C7" opacity="0.85"/>
+      <rect x="1062" y="19" width="14" height="41" fill="#7AA5C7" opacity="0.85"/>
+    </g>
+  </g>
+
+  <!-- BOTTOM PANEL: PHQ-9 score line -->
+  <g transform="translate(60, 220)">
+    <text x="-5" y="-8" text-anchor="end" font-family="ui-monospace, monospace" font-size="9" fill="#D4A574" letter-spacing="1">PHQ-9</text>
+    <!-- baseline -->
+    <line x1="0" y1="60" x2="1080" y2="60" stroke="#1E293B" stroke-width="0.5"/>
+    <line x1="0" y1="30" x2="1080" y2="30" stroke="#1E293B" stroke-width="0.5" stroke-dasharray="2,3" opacity="0.6"/>
+    <line x1="0" y1="0" x2="1080" y2="0" stroke="#1E293B" stroke-width="0.5" stroke-dasharray="2,3" opacity="0.4"/>
+
+    <!-- highlighted gap regions to match top panel -->
+    <rect x="178" y="-5" width="92" height="70" fill="#D4A574" opacity="0.08"/>
+    <rect x="610" y="-5" width="110" height="70" fill="#D4A574" opacity="0.08"/>
+
+    <!-- area fill under line -->
+    <path d="M 0,55 L 50,52 L 100,50 L 150,48 L 180,45 L 200,30 L 220,12 L 240,8 L 260,15 L 270,30 L 300,42 L 350,48 L 400,50 L 450,52 L 500,50 L 550,48 L 600,46 L 612,40 L 640,20 L 670,6 L 700,10 L 720,28 L 760,42 L 800,48 L 850,52 L 900,50 L 950,52 L 1000,54 L 1050,55 L 1080,56 L 1080,60 L 0,60 Z"
+          fill="url(#phqGrad)"/>
+
+    <!-- PHQ-9 line -->
+    <path d="M 0,55 L 50,52 L 100,50 L 150,48 L 180,45 L 200,30 L 220,12 L 240,8 L 260,15 L 270,30 L 300,42 L 350,48 L 400,50 L 450,52 L 500,50 L 550,48 L 600,46 L 612,40 L 640,20 L 670,6 L 700,10 L 720,28 L 760,42 L 800,48 L 850,52 L 900,50 L 950,52 L 1000,54 L 1050,55 L 1080,56"
+          stroke="#D4A574" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" filter="url(#vaglow)"/>
+
+    <!-- peak indicators -->
+    <circle cx="240" cy="8" r="3" fill="#B8D4E8" filter="url(#vaglow)"/>
+    <circle cx="670" cy="6" r="3" fill="#B8D4E8" filter="url(#vaglow)"/>
+  </g>
+
+  <!-- KEY FINDING annotation -->
+  <text x="60" y="335" font-family="Georgia, 'Iowan Old Style', serif" font-size="14" fill="#94A3B8" font-style="italic">When phone-use data is sparse — </text>
+  <text x="294" y="335" font-family="Georgia, 'Iowan Old Style', serif" font-size="14" font-weight="600" fill="#D4A574">depression scores spike.</text>
+  <text x="478" y="335" font-family="Georgia, 'Iowan Old Style', serif" font-size="14" fill="#94A3B8" font-style="italic"> Missingness isn't a nuisance; it's the marker.</text>
+
+  <!-- footer tags -->
+  <text x="60" y="360" font-family="ui-monospace, monospace" font-size="8" fill="#475569" letter-spacing="2">VISUAL ABSTRACT · OLCAN 2026 · DOI 10.64898/2026.04.30.26351977</text>
+</svg>
