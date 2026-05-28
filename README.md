@@ -187,7 +187,7 @@ Risk analytics and strategic systems modeling engine.
 <!-- ─── INLINE · SNAKE ──────────────────────────────────────── -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ceyhunolcan/ceyhunolcan/output/github-contribution-grid-snake.svg" alt="A snake animation traversing my GitHub contribution grid" />
+  <img src="https://raw.githubusercontent.com/ceyhunolcan/ceyhunolcan/output/strafe.svg" alt="A fighter strafes my contribution graph" />
 </p>
 
 <!-- ─── CLOSE · CONTACT ─────────────────────────────────────── -->
