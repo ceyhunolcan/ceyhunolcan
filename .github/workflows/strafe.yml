@@ -18,7 +18,7 @@ jobs:
 
     steps:
       - name: Generate strafe.svg
-        uses: ceyhunolcan/strafe@v1
+        uses: ceyhunolcan/strafe@v2
         with:
           github_user_name: ${{ github.repository_owner }}
           output: dist/strafe.svg
