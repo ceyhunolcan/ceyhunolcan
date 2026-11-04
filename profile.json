@@ -1,0 +1,60 @@
+{
+  "login": "ceyhunolcan",
+  "orcid": "0000-0002-6326-6071",
+  "maxPapers": 5,
+  "papers": [
+    {
+      "doi": "10.64898/2026.04.30.26351977",
+      "title": "Smartphone missingness as a depression biomarker.",
+      "authors": "Olcan C.",
+      "venue": "medRxiv",
+      "year": 2026,
+      "links": { "Code": "https://github.com/ceyhunolcan/biomedical-signal-forensics-lab" },
+      "note": "In the StudentLife cohort, days with sparse phone data carry more depression signal than dense ones. The gaps are the symptom."
+    },
+    {
+      "doi": "10.31234/osf.io/uydqj_v1",
+      "title": "Reliability of passive sensing data: a multi-method evaluation in depression.",
+      "authors": "Langener, Lee, Castro-Alvarez, Lampe, Enbar-Salo, Ramrakhiani, Olcan, Dorris, Price, Heinz, et al.",
+      "venue": "PsyArXiv",
+      "year": 2026
+    },
+    {
+      "doi": "10.21203/rs.3.rs-9830931/v1",
+      "title": "Olfactory dysfunction, daytime activity reduction, and 24-hour rhythm fragmentation, but not food-odor recognition, in NHANES 2013-2014.",
+      "authors": "Olcan C.",
+      "venue": "Research Square",
+      "year": 2026,
+      "links": { "Code": "https://github.com/ceyhunolcan/od-activity-rhythm" }
+    },
+    {
+      "doi": "10.21203/rs.3.rs-9646723/v1",
+      "title": "Moderate-to-severe olfactory dysfunction marks accelerated phenotypic aging in U.S. adults.",
+      "authors": "Olcan C.",
+      "venue": "Research Square",
+      "year": 2026
+    }
+  ],
+  "repos": [
+    {
+      "name": "longitudinal-health-foundation-model",
+      "title": "Longitudinal Health Foundation Model",
+      "claim": "Self-supervised pretraining over months of wearable, smartphone, and environmental signals."
+    },
+    {
+      "name": "biomedical-signal-forensics-lab",
+      "title": "Biomedical Signal Forensics Lab",
+      "claim": "Auditing wearable physiological signal pipelines for quality, drift, and fairness."
+    },
+    {
+      "name": "od-activity-rhythm",
+      "title": "Olfaction and Activity Rhythm",
+      "claim": "Smell loss, daytime activity, and 24-hour rhythm fragmentation in NHANES 2013-2014."
+    },
+    {
+      "name": "latent-human-dynamics-lab",
+      "title": "Latent Human Dynamics Lab",
+      "claim": "A multimodal state-space engine for human passive-sensing data."
+    }
+  ]
+}
